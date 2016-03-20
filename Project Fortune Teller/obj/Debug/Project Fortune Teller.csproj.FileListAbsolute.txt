@@ -1,0 +1,9 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Project Fortune Teller\Project Fortune Teller\bin\Debug\Project Fortune Teller.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Project Fortune Teller\Project Fortune Teller\bin\Debug\Project Fortune Teller.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Project Fortune Teller\Project Fortune Teller\bin\Debug\Project Fortune Teller.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Project Fortune Teller\Project Fortune Teller\obj\Debug\Project Fortune Teller.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Project Fortune Teller\Project Fortune Teller\obj\Debug\Project Fortune Teller.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Project Fortune Teller\Project Fortune Teller\obj\Debug\Project Fortune Teller.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Project Fortune\Project Fortune Teller\Project Fortune Teller\bin\Debug\Project Fortune Teller.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Project Fortune\Project Fortune Teller\Project Fortune Teller\obj\Debug\Project Fortune Teller.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Project Fortune\Project Fortune Teller\Project Fortune Teller\obj\Debug\Project Fortune Teller.pdb
