@@ -48,7 +48,7 @@ namespace Project_Fortune_Teller
                 {
 
                     Console.WriteLine("ROYGIV Colors: \nR is Red, \nO is Orange, \nY is Yellow, \nG is Green, \nB is Blue, \nI is indigo, \nV is violet");
-                    favColor = Console.ReadLine();
+                    favColor = Console.ReadLine().ToLower();
                     // Console.WriteLine("Please enter a color: ");
                     //string helpColor = (Console.ReadLine());
 
@@ -82,9 +82,9 @@ namespace Project_Fortune_Teller
                     case "violet":
                         transport = "Mechanical Bull";
                         break;
-                        //default:
-                        //   Console.WriteLine("Did you enter a color" + favColor);
-                        //   break;
+                        default:
+                        transport = "Maybach Mercedes-Benz";
+                           break;
 
                 }
 
@@ -149,10 +149,10 @@ namespace Project_Fortune_Teller
                 var selectedNum = random.Next(max);
                 Console.WriteLine(responses[selectedNum]);
                 Console.WriteLine("Would you like to play again (Y or N)?");
-                playAgain = Console.ReadLine();
+                playAgain = Console.ReadLine().ToLower();
 
             }
-            while (playAgain == "Y");
+            while (playAgain == "y");
         }
     }
 }
